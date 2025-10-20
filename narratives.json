@@ -1,0 +1,14 @@
+[
+  {
+    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/antarctic_sea_ice_lows/theme-image.jpg",
+    "date": "2025-01-01",
+    "theme": "antarctica",
+    "tags": "ice",
+    "official": true,
+    "title": "Example story",
+    "subtitle": "Unprecedented Antarctic Sea Ice Decline in 2023: Record Lows and Historic Anomalies",
+    "image": "assets/previews/theme-image_4cb8c053-c7ee-4a75-a858-b7a1870bcf73_preview.png",
+    "provider": "agency",
+    "file": "https://ESA-EarthCODE.github.io/polar-science-cluster-narratives/Example_story.md"
+  }
+]
